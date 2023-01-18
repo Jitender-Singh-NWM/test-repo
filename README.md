@@ -1,2 +1,2 @@
 # first-repo
-Jitender Singh.GIT is awesome.
+Jitender Singh.GIT is awesome. 
